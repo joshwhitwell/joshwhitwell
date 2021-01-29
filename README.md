@@ -5,7 +5,7 @@ Hi, I'm Josh! I'm a software engineer based in Charlottesville, VA passionate ab
 
 I'm currently open and ready to join an awesome team of developers working on creating innovative solutions within the environmental, wellness, and nonprofit sectors.
 
-### About Me
+### About Me 🧑🏼‍💻
 _______________________________________________________________________________________________________________________
 
 - 📫 &nbsp; How to reach me: josh.whitwell@gmail.com | [LinkedIn](https://www.linkedin.com/in/joshuawhitwell/)
