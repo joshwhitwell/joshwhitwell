@@ -12,6 +12,6 @@ I'm currently open and ready to join an awesome team of developers working on cr
 - 📚 &nbsp; I'm currently learning: Python 
 - 😄 &nbsp; Pronouns: He / Him / His
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshwhitwell&hide=ruby)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joshwhitwell&hide=ruby,less&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joshwhitwell&hide=stars,issues)](https://github.com/anuraghazra/github-readme-stats)
