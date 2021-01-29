@@ -11,3 +11,5 @@ I'm currently open and ready to join an awesome team of developers working on cr
 - 📡 &nbsp; Back-End Stack: NodeJS | Express | PostgreSQL | SQLite
 - 📚 &nbsp; I'm currently learning: Python 
 - 😄 &nbsp; Pronouns: He / Him / His
+
+[![My GitHub stats](https://github-readme-stats.vercel.app/api?username=joshwhitwell)](https://github.com/anuraghazra/github-readme-stats)
