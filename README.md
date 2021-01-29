@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hi there 👋🏼 🧑🏼‍💻
 
-<!--
-**joshwhitwell/joshwhitwell** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Hi, I'm Josh! I'm software engineer based in Charlottesville, VA who is passionate about building full-stack web applications to help people and communities reach their full potentials. I'm currently open and ready to join an awesome team of developers working on creating innovative solutions within the environmental, wellness, and nonprofit sectors.
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
