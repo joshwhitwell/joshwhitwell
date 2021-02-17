@@ -9,7 +9,7 @@ I'm currently open and looking to join an awesome team of developers working on 
 _______________________________________________________________________________________________________________________
 
 - 📫 &nbsp; How to reach me: josh.whitwell@gmail.com | [LinkedIn](https://www.linkedin.com/in/joshuawhitwell/)
-- 📁 &nbspc; Experience: [Portfolio](https://joshwhitwell.com) | [Resume](https://drive.google.com/file/d/1WkWDySaA3L7HhGlOoohl7zmaHHCIvRBI/view?usp=sharing)
+- 📁 &nbsp; Experience: [Portfolio](https://joshwhitwell.com) | [Resume](https://drive.google.com/file/d/1WkWDySaA3L7HhGlOoohl7zmaHHCIvRBI/view?usp=sharing)
 - 🔭 &nbsp; I’m currently working on [Village Book Builders](https://github.com/Lambda-School-Labs/village-book-builders-fe-b)
 - 💻 &nbsp; Front-End Stack: JavaScript | HTML | CSS | React.JS | Redux
 - 📡 &nbsp; Back-End Stack: NodeJS | Express | PostgreSQL | SQLite
