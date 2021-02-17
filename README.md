@@ -10,7 +10,7 @@ ________________________________________________________________________________
 
 - 📫 &nbsp; How to reach me: josh.whitwell@gmail.com | [LinkedIn](https://www.linkedin.com/in/joshuawhitwell/)
 - 📁 &nbsp; Experience: [Portfolio](https://joshwhitwell.com) | [Resume](https://drive.google.com/file/d/1WkWDySaA3L7HhGlOoohl7zmaHHCIvRBI/view?usp=sharing)
-- 🔭 &nbsp; I’m currently working on [Village Book Builders](https://github.com/Lambda-School-Labs/village-book-builders-fe-b)
+- 🔭 &nbsp; I’m currently working on [Village Book Builders](https://github.com/joshwhitwell/village-book-builders)
 - 💻 &nbsp; Front-End Stack: JavaScript | HTML | CSS | React.JS | Redux
 - 📡 &nbsp; Back-End Stack: NodeJS | Express | PostgreSQL | SQLite
 - 📚 &nbsp; I'm currently learning: Python 
