@@ -3,8 +3,6 @@ ________________________________________________________________________________
 
 Hi, I'm Josh! I'm a software engineer based in Charlottesville, VA passionate about building full-stack web applications to help people and communities reach their full potentials. 
 
-I'm currently open and looking to join an awesome team of developers working on creative projects in a variety of sectors!
-
 ### About Me 🧑🏼‍💻
 _______________________________________________________________________________________________________________________
 
