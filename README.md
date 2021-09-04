@@ -8,9 +8,9 @@ ________________________________________________________________________________
 
 - 📫 &nbsp; How to reach me: josh.whitwell@gmail.com | [LinkedIn](https://www.linkedin.com/in/joshuawhitwell/)
 - 📁 &nbsp; Experience: [Portfolio](https://joshwhitwell.com) | [Resume](https://drive.google.com/file/d/11gIFeTeTgDweVcT8th88JdPsYzOxyzrj/view?usp=sharing)
-- 💻 &nbsp; Front-End Stack: JavaScript | HTML | CSS | React.JS
-- 📡 &nbsp; Back-End Stack: NodeJS | Express | SQL | Mongo
-- 📚 &nbsp; I'm currently learning: Vue.JS 
+- 💻 &nbsp; Languages: JavaScript | PHP | Python | HTML | CSS
+- 🏗 &nbsp; Frameworks: React.js | Vue.js | Express | Laravel
+- 📚 &nbsp; I'm currently learning: Vue.js & Laravel
 - 😄 &nbsp; Pronouns: He / Him / His
 
 ### Stats 📈
