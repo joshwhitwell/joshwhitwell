@@ -1,16 +1,16 @@
 ### Welcome 👋🏼 
 _______________________________________________________________________________________________________________________
 
-Hi, I'm Josh! I'm a software engineer based in Charlottesville, VA passionate about building full-stack web applications to help people and communities reach their full potentials. 
+Hi, I'm Josh! I'm a web developer based in Charlottesville, VA.
 
 ### About Me 🧑🏼‍💻
 _______________________________________________________________________________________________________________________
 
-- 📫 &nbsp; How to reach me: josh.whitwell@gmail.com | [LinkedIn](https://www.linkedin.com/in/joshuawhitwell/)
+- 📫 &nbsp; Contact: josh.whitwell@gmail.com | [LinkedIn](https://www.linkedin.com/in/joshuawhitwell/)
 - 📁 &nbsp; Experience: [Portfolio](https://joshwhitwell.com) | [Resume](https://drive.google.com/file/d/11gIFeTeTgDweVcT8th88JdPsYzOxyzrj/view?usp=sharing)
-- 💻 &nbsp; Languages: JavaScript | PHP | Python | HTML | CSS
-- 🏗 &nbsp; Frameworks: React.js | Vue.js | Express | Laravel
-- 📚 &nbsp; I'm currently learning: Vue.js & Laravel
+- 💻 &nbsp; Languages: PHP | Javascript | HTML | CSS
+- 🏗 &nbsp; Frameworks: Laravel | Vue | Nuxt | React
+- 📚 &nbsp; I'm currently learning: Inertia.js & Tailwind CSS
 - 😄 &nbsp; Pronouns: He / Him / His
 
 ### Stats 📈
