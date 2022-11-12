@@ -10,7 +10,7 @@ ________________________________________________________________________________
 - 📁 &nbsp; Experience: [Portfolio](https://joshwhitwell.com) | [Resume](https://drive.google.com/file/d/11gIFeTeTgDweVcT8th88JdPsYzOxyzrj/view?usp=sharing)
 - 💻 &nbsp; Languages: PHP | Javascript | HTML | CSS
 - 🏗 &nbsp; Frameworks: Laravel | Vue | Nuxt | React
-- 📚 &nbsp; I'm currently learning: Inertia.js & Tailwind CSS
+- 📚 &nbsp; Learning: Inertia.js | Tailwind CSS
 - 😄 &nbsp; Pronouns: He / Him / His
 
 ### Stats 📈
